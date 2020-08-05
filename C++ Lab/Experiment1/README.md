@@ -12,6 +12,5 @@ To display the names and roll numbers of students
 Output obtained
 
 
-![output](19WH1A1257.JPG.jpg)
 
 
