@@ -12,6 +12,6 @@ To display the names and roll numbers of students
 Output obtained
 
 
-![MicrosoftTeams-image(1).png](Output.png)
+![output](19WH1A1257.JPG.jpg)
 
 
