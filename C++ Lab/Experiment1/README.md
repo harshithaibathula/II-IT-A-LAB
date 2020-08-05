@@ -11,6 +11,8 @@ To display the names and roll numbers of students
 
 Output obtained
 
+![output](pikachu.jpg)
+
 
 
 
